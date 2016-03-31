@@ -27,7 +27,7 @@
 #nav-list {
   margin-top: 0px;
   margin-bottom: 0px;
-  background-color: rgba(183,28,28,1);
+  background-color: rgba(183,28,28,0.7);
 }
 #nav-list a {
   text-align: center;
